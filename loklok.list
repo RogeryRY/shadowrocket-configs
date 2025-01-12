@@ -2,15 +2,11 @@ DOMAIN,admin.loklok.tv
 DOMAIN,m.loklok.tv
 DOMAIN,static.loklok.tv
 DOMAIN,www.loklok.tv
-DOMAIN, analytics-ios-tcp.mtgglobals.com
-DOMAIN, configure-tcp-ios.mtgglobals.com
 DOMAIN, analytics-ios-ttp.rayjump.com
-DOMAIN, api16-access-tcp.tiktokpange.us
-DOMAIN, img.grintelev.com
-DOMAIN, mapi.grintelev.com
-DOMAIN, h5.loklok.team
-DOMAIN, img.netpop.app
-DOMAIN, js1.loklok.plus
-DOMAIN, nl-new-cdn-ssplib-europe-west4-b-hb.mtgglobals.com
-DOMAIN, observe-tcp.mtgglobals.com
-DOMAIN, static.netpop.app
+DOMAIN-SUFFIX, tiktokpangle.us
+DOMAIN-SUFFIX, grintelev.com
+DOMAIN-SUFFIX, loklok.plus
+DOMAIN-SUFFIX, mtgglobals.com
+DOMAIN-SUFFIX,netpop.app
+DOMAIN,img.loklok.pub
+DOMAIN,sf19-static.i18n-pglstatp.com
